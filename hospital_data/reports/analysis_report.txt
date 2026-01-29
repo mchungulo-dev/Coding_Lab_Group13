@@ -1,0 +1,33 @@
+--- Analysis Report: Thu 29 Jan 2026 12:35:17 PM PST ---
+File Analyzed: hospital_data/active_logs/heart_rate.log
+Device Counts:
+
+First Entry: 
+Last Entry: 
+------------------------------------
+--- Analysis Report: Thu 29 Jan 2026 12:37:09 PM PST ---
+File Analyzed: hospital_data/active_logs/heart_rate.log
+Device Counts:
+
+First Entry: 
+Last Entry: 
+------------------------------------
+--------------------------------------
+Heart Rate Analysis
+Log file: heart_rate_log.log
+Analysis date: Thu 29 Jan 2026 12:44:52 PM PST
+
+Device statistics:
+Device: 2026-01-29
+  Total entries: 49628
+  First entry: 16:31:10 HeartRate_Monitor_A
+  Last entry:  18:58:16 HeartRate_Monitor_B
+
+Run Date: Thu 29 Jan 2026 12:54:17 PM PST
+----------------------------------------
+Analysis Report for: active_logs/heart_rate_log.log
+Device                    Count      First Entry          Last Entry          
+----------------------------------------
+HeartRate_Monitor_A       24814      2026-01-29 16:31:10  2026-01-29 18:58:16 
+HeartRate_Monitor_B       24814      2026-01-29 16:31:10  2026-01-29 18:58:16 
+
